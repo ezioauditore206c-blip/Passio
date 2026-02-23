@@ -1,7 +1,7 @@
 # Passio
-**Version:** 2.0.2
+**Version:** 2.0.4
 
-Powerful password manager and analyzer with tips, strength check, and interactive CLI.
+Powerful password manager and analyzer with tips, strength check and generator.
 
 ---
 ## Features
@@ -20,11 +20,9 @@ pip install Passio
 from Passio import Passio
 p = Passio()
 password = "724242AA"
-
-
 # Check strength
 print(p.strength_level(password))
-
 # Detailed feedback
 print(p.feedback(password))
-```
+# Generate Strong Password
+print(p.generate_password())
