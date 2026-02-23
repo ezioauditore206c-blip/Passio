@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: passio
+Version: 2.0.4
+Summary: simple Password strength checker & generator
+Home-page: https://github.com/ezioauditore206c-blip/passio
+Author: Ez__iO
+Author-email: ezioauditore206c@gmail.com
+Requires-Python: >=3.8
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: requires-python
+Dynamic: summary
