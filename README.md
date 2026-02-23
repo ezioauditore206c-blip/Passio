@@ -12,7 +12,7 @@ Powerful password manager and analyzer with tips, strength check and generator.
 -Python 3.8+ compatible
 
 ## Installaion
-**From PyPI
+From PyPI
 ```bash
 pip install Passio
 ```
