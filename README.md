@@ -9,7 +9,7 @@ Powerful password manager and analyzer with tips, strength check and generator.
 
 -Check password strength (entropy based)
 
-Python 3.8+ compatible
+-Python 3.8+ compatible
 
 ## Installaion
 **From PyPI
