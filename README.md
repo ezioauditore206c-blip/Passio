@@ -6,9 +6,8 @@ Powerful password manager and analyzer with tips, strength check and generator.
 ---
 ## Features
 -Generate secure passwords of any length
--Check password strength (entropy based)
--Interactive CLI for easy usage
--Python 3.8+ compatible
+--Check password strength (entropy based)
+---Python 3.8+ compatible
 
 ## Installaion
 **From PyPI
