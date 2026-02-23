@@ -17,14 +17,14 @@ pip install Passio
 ```
 ## Usage
 ```Python
-from Passio import PAssio
+from Passio import Passio
 p = Passio()
-# Generate a password
-password = p.generate_password(16)
-print(password)
+password = "724242AA"
+
 
 # Check strength
-print(p.password_strength())
+print(p.strength_level(password))
 
 # Detailed feedback
-print(p.feedback())
+print(p.feedback(password))
+```
